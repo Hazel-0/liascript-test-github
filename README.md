@@ -1,3 +1,17 @@
+<!--
+author:   Hazel-0
+
+email:    sinahasel@duck.com
+
+version:  0.0.1
+
+language: en
+
+narrator: US English Female
+
+comment:  Testing only
+-->
+
 # SCORM Test
 
 Let's see if this works.
